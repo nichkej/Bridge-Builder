@@ -1,4 +1,4 @@
-# Dodge The Log
+# Bridge Builder
 > Stick hero-inspired HTML5 Canvas, CSS, Vanilla JS game
 
 ---
